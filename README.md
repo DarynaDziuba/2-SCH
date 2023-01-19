@@ -8,6 +8,6 @@ We provide three versions of the algorithm:
 
 All versions are suitable for problems without and with setup times.
 
-We also provide the code to simulate online production planning for the single-level CLSP (2-SCH for CLSP Online Setting).
+We also provide the code to simulate online production planning for the single-level CLSP.
 
 Test instances for CLSP without and with setup times and for MLCLSP are to be found in the respective folders.
